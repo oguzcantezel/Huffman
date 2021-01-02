@@ -25,7 +25,7 @@ Sıkıştırma Oranı
 
  Huffman kodlama yaptıktan sonra oluşan sözlüğün sıkıştırma oranını belirtir.
 
-##<span style="color: darkblue"> GEREKLİLİKLER  </span>
+<span style="color: darkblue"> ##GEREKLİLİKLER  </span>
 
 
 --------------------------------------------------
